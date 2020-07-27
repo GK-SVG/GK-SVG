@@ -1,3 +1,19 @@
+#banner {
+height: 30rem;
+background-image: url('https://www.bitdegree.org/storage/file-251193-JkkLKeYBXNIxYk7k.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+<div id="banner">
+  <h1>Gautam Kumar </h1>
+
+</div>
+
 ## Hi, I'm [Gautam Kumar!](https://gk-engineer.herokuapp.com/) 👋
 
 
@@ -28,7 +44,7 @@
 - 🌱 I’m currently learning Data Science.
 - 💬 Ask me about Django or any tech related stuff.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours watching technology/comedy/gaming/music videos on youtube.
+- ⚡ Fun fact: I spend almost 8 hours watching technology/comedy/gaming/music videos on youtube.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GautamK41526845) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gautam-kumar-3b328b18b/)
 [![GitHub gk-svg](https://img.shields.io/github/followers/gk-svg?label=follow&style=social)](https://github.com/gk-svg)
