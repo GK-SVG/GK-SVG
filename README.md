@@ -1,4 +1,4 @@
-<img style="height:40%;width:100%;" src="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg" >
+<img style="height:400px;width:100%;" src="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg"/>
 
 ## Hi, I'm [Gautam Kumar!](https://gk-engineer.herokuapp.com/) 👋
 
