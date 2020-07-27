@@ -1,4 +1,4 @@
-<img src="https://www.bitdegree.org/storage/file-251193-JkkLKeYBXNIxYk7k.jpg" style="height:450;">
+<img src="https://miro.medium.com/max/719/1*TMAo0Qpl4j9TaE3sDyBTLg.jpeg" style="height:400px;">
 
 ## Hi, I'm [Gautam Kumar!](https://gk-engineer.herokuapp.com/) 👋
 
