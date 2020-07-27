@@ -2,44 +2,36 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-<a href="https://twitter.com/imthepk">
+<a href="https://twitter.com/GautamK41526845">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/imthepk">
+<a href="https://www.linkedin.com/in/gautam-kumar-3b328b18b/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/GK-SVG">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/imthepk">
+<a href="https://web.telegram.org/#/im">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/codepur_ka_superhero/">
+<a href="https://www.instagram.com/gkdevloper9116/">
   <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/imthepk/">
+<a href="https://www.facebook.com/profile.php?id=100050134031510">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 <br/>
 
 
 
-- 🔭 I’m currently working on [Frontier Wallet](https://frontierwallet.com).
-- 🌱 I’m currently learning Swift.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/imthepk) , [Youtube - @mtechviral](https://youtube.com/mtechviral)
+- 🔭 I’m currently working on [Django](https://www.djangoproject.com/).
+- 🌱 I’m currently learning Data Science.
+- 💬 Ask me about Django or any tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ashu7sharma) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashusharma7/)
 [![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://pawan.live/)
 
@@ -56,16 +48,13 @@
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/gk-svg">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk-svg&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" />
+<a href="https://github.com/gk-svg/shell_video">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gk-svg&repo=shell_video&theme=dark" />
+</a>
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=dark" />
-</a>
 
 <div align="center">
 
