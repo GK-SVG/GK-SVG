@@ -1,18 +1,4 @@
-#banner {
-height: 30rem;
-background-image: url('https://www.bitdegree.org/storage/file-251193-JkkLKeYBXNIxYk7k.jpg');
-background-position: center;
-background-size: cover;
-background-repeat: no-repeat;
-display: flex;
-justify-content: center;
-align-items: center;
-text-align: center;
-}
-<div id="banner">
-  <h1>Gautam Kumar </h1>
-
-</div>
+<img src="https://www.bitdegree.org/storage/file-251193-JkkLKeYBXNIxYk7k.jpg">
 
 ## Hi, I'm [Gautam Kumar!](https://gk-engineer.herokuapp.com/) 👋
 
