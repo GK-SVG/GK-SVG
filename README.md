@@ -54,9 +54,7 @@
 <a href="https://github.com/gk-svg">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk-svg&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
 </a>
-<a href="https://github.com/gk-svg/shell_video">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gk-svg&repo=shell_video&theme=dark" />
-</a>
+
 
 
 <div align="center">
