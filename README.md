@@ -36,29 +36,81 @@
 [![GitHub gk-svg](https://img.shields.io/github/followers/gk-svg?label=follow&style=social)](https://github.com/gk-svg)
 <p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=gk-svg&style=flat-square" alt="Gautam"></p>
 
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<h2>My Skills and Tools</h2>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>REST API</b></span><br><br><br>
+        <img height="80px" src="https://www.vhinandrich.com/sites/default/files/styles/large_square_padded/public/2018-02/logo.png?itok=5DkeypK3">
+      </td>
+      <td width="25%" align="center">
+        <span><b>POSTMAN</b></span><br><br><br>
+        <img height="80px" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg">
+      </td>         
+    </tr>
+    <tr valign="top"> 
+      <td width="25%" align="center">
+        <span><b>HTML</b></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+      </td>
+      <td width="25%" align="center">
+        <span><b>CSS</b></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+      </td>   
+      <td width="25%" align="center">
+        <span>BOOTSTRAP</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>JAVASCRIPT</b></span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>  
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td> 
+    </tr>
+    <tr valign="top">
+    <td width="25%" align="center">
+        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img width="60" height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code>
 <a href="https://github.com/gk-svg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk-svg&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/gk-svg">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk-svg&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
 </a>
-
-<div align="center">
+</div>
+<div text-align="center">
 
 ### Show some ❤️ by Forking/Star some of the repositories!
 
