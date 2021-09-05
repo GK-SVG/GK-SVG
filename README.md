@@ -27,7 +27,7 @@
 
 
 
-- 🔭 I’m currently as a BACKEND DEVELOPER(PYTHON?DJANGO) at draftss.com(Intern).
+- 🔭 I’m currently working as a BACKEND DEVELOPER(PYTHON?DJANGO) at draftss.com(Intern).
 - 💬 Ask me about Django or any tech related stuff.
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GautamK41526845) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gautam-kumar-3b328b18b/)
