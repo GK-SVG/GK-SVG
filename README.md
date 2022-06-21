@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/gautam-kumar-3b328b18b/">
   <img align="left" alt="gautam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.gitlab.com/gk32239/">
+  <img align="left" alt="gautam's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
 <a href="https://github.com/GK-SVG">
   <img align="left" alt="gautam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
