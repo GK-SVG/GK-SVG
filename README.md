@@ -19,7 +19,7 @@
 <a href="https://web.telegram.org/#/im">
   <img align="left" alt="gautam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/gkdevloper9116/">
+<a href="https://www.instagram.com/gautam_kumar_official_0/">
   <img align="left" alt="gautam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100050134031510">
