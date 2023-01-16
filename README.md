@@ -36,7 +36,7 @@
 [![GitHub gk-svg](https://img.shields.io/github/followers/gk-svg?label=follow&style=social)](https://github.com/gk-svg)
 <p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=gk-svg&style=flat-square" alt="Gautam"></p>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
