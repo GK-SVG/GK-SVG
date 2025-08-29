@@ -42,7 +42,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gk-svg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=27)
 ![](https://github-readme-stats.vercel.app/api?username=gk-svg&show_icons=true&theme=dark&line_height=27)</br>
 
-<div text-align="center">
-  ### Show some ❤️ by Forking/Star some of the repositories!
-</div>
-
+### Show some ❤️ by Forking/Star some of the repositories!
