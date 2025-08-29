@@ -1,8 +1,10 @@
-<div><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="200">
-<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="350" height="200"></div>
+<div>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" height="200">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="350" height="200">
+</div>
 
 ## Hi, I'm [Gautam Kumar!](https://gk-svg.github.io/Gk-Engineer/) 👋
-
+- 🔭 I’m currently working as a Software Developer(PYTHON/DJANGO) at The Quick Company.
 
 <a href="https://twitter.com/GautamK41526845">
   <img align="left" alt="gautam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,91 +30,19 @@
 <br/>
 <br/>
 
-
-
-- 🔭 I’m currently working as a Software Developer(PYTHON/DJANGO) at The Quick Company.
-
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GautamK41526845) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gautam-kumar-3b328b18b/)
 [![GitHub gk-svg](https://img.shields.io/github/followers/gk-svg?label=follow&style=social)](https://github.com/gk-svg)
 <p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=gk-svg&style=flat-square" alt="Gautam"></p>
 
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>REST API</b></span><br><br><br>
-        <img height="80px" src="https://www.vhinandrich.com/sites/default/files/styles/large_square_padded/public/2018-02/logo.png?itok=5DkeypK3">
-      </td>
-      <td width="25%" align="center">
-        <span><b>POSTMAN</b></span><br><br><br>
-        <img height="80px" src="https://miro.medium.com/max/3416/1*Txf8ugHH_MlHPM8JU6hT5w.jpeg">
-      </td>         
-    </tr>
-    <tr valign="top"> 
-      <td width="25%" align="center">
-        <span><b>HTML</b></span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-      </td>
-      <td width="25%" align="center">
-        <span><b>CSS</b></span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-      </td>   
-      <td width="25%" align="center">
-        <span>BOOTSTRAP</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>JAVASCRIPT</b></span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗠𝘆𝗦𝗤𝗟</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>  
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td> 
-    </tr>
-    <tr valign="top">
-    <td width="25%" align="center">
-        <span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=gk-svg&theme=dark&hide_border=false&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gk-svg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&line_height=27)
+![](https://github-readme-stats.vercel.app/api?username=gk-svg&show_icons=true&theme=dark&line_height=27)</br>
 
-<a href="https://github.com/gk-svg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk-svg&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/gk-svg">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk-svg&show_icons=true&theme=dracula&line_height=27" alt="Gautam's github stats"/>
-</a>
-</div>
 <div text-align="center">
-
-### Show some ❤️ by Forking/Star some of the repositories!
-
+  ### Show some ❤️ by Forking/Star some of the repositories!
 </div>
 
