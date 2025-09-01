@@ -6,30 +6,6 @@
 ## Hi, I'm [Gautam Kumar!](https://gk-svg.github.io/Gk-Engineer/) 👋
 - 🔭 I’m currently working as a Software Developer(PYTHON/DJANGO) at The Quick Company.
 
-<a href="https://twitter.com/GautamK41526845">
-  <img align="left" alt="gautam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gautam-kumar-3b328b18b/">
-  <img align="left" alt="gautam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.gitlab.com/gk32239/">
-  <img align="left" alt="gautam's Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
-</a>
-<a href="https://github.com/GK-SVG">
-  <img align="left" alt="gautam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://web.telegram.org/#/im">
-  <img align="left" alt="gautam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/gautam_kumar_official_0/">
-  <img align="left" alt="gautam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100050134031510">
-  <img align="left" alt="gautam Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<br/>
-<br/>
-
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/GautamK41526845) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gautam-kumar-3b328b18b/)
 [![GitHub gk-svg](https://img.shields.io/github/followers/gk-svg?label=follow&style=social)](https://github.com/gk-svg)
 <p align="left"><img width="125" src="https://komarev.com/ghpvc/?username=gk-svg&style=flat-square" alt="Gautam"></p>
